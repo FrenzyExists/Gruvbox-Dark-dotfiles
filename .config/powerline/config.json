@@ -1,0 +1,25 @@
+{
+	"segments": [
+		"virtual_env",
+		"aws_profile",
+		"ssh",
+		"cwd",
+		"git",
+		"git_stash",
+		"set_term_title",
+		"svn",
+		"newline",
+		"root"
+	],
+	"mode": "flat",
+	"cwd": {
+		"mode": "plain",
+		"colorize": "true",
+		"max_depth": 4
+		},
+	"theme":"gruvbox",
+	"vcs": {
+		"show_symbol": "true"
+	}
+
+}
